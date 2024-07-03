@@ -32,6 +32,14 @@ Here are some of my favorite projects:
 - [Project Name](https://github.com/robson-muniz/project-name) - A brief description of what this project is about.
 - [Another Project](https://github.com/robson-muniz/another-project) - A brief description of what this project is about.
 
+### YouTube Channel
+
+Check out my YouTube channel where I share tutorials, project showcases, and tech talks:
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@DevMadeEasy)
+
+### Social Media
+
 ### Social Media
 
 Connect with me on:
