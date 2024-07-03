@@ -40,8 +40,6 @@ Check out my YouTube channel where I share tutorials, project showcases, and tec
 
 ### Social Media
 
-### Social Media
-
 Connect with me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/robsonmuniz)
