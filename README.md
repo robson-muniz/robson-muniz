@@ -2,7 +2,7 @@
 
 ### About Me
 
-Brazilian, Full Stack Developer.
+Full Stack Developer.
 
 - 📫 Email for contact: robson_muniz@yahoo.com
 - 🌍 Location: Coimbra, Portugal
