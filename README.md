@@ -3,9 +3,8 @@
 ### About Me
 
 Brazilian, Full Stack Developer.
-Currently pursuing a degree in Software Engineering.
 
-- 📫 Email for contact: robsonmuniz@gmail.com
+- 📫 Email for contact: robson_muniz@yahoo.com
 - 🌍 Location: Coimbra, Portugal
 
 ### GitHub Stats
