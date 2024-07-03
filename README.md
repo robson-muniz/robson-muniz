@@ -2,14 +2,17 @@
 
 ### About Me
 
-I am a passionate Full Stack Developer with a strong focus on creating innovative and efficient web applications.
+I am a dedicated Full Stack Developer with a strong focus on creating innovative and efficient web applications. My expertise spans a wide range of technologies, and I am constantly learning and improving my skills.
 
 - 📫 **Email for contact:** [robson_muniz@yahoo.com](mailto:robson_muniz@yahoo.com)
 - 🌍 **Location:** Coimbra, Portugal
+- 🌟 **Interests:** Web Development, Learning New Technologies
 
 ### GitHub Stats
 
 ![Robson Muniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robson-muniz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robson-muniz&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robson-muniz&theme=radical)
 
 ### Technologies I Use Daily 🚀
 
@@ -22,7 +25,17 @@ I am a passionate Full Stack Developer with a strong focus on creating innovativ
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
+### My Projects
+
+Here are some of my favorite projects:
+
+- [Project Name](https://github.com/robson-muniz/project-name) - A brief description of what this project is about.
+- [Another Project](https://github.com/robson-muniz/another-project) - A brief description of what this project is about.
+
 ### Social Media
+
+Connect with me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/robsonmuniz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/robson-muniz)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
