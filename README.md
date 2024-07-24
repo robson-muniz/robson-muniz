@@ -10,10 +10,9 @@ I am a dedicated Full Stack Developer with a strong focus on creating innovative
 
 ### GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robson-muniz&theme=radical)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robson-muniz&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robson-muniz&theme=radical)
 
 ### Technologies I Use Daily 🚀
 
