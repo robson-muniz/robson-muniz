@@ -29,7 +29,7 @@ I am a dedicated Full Stack Developer with a strong focus on creating innovative
 
 Here are some of my favorite projects:
 
-- [Travel List](https://github.com/robson-muniz/travel-list) - Travel List is a React-based web app designed to help users manage their travel packing lists efficiently. Users can easily add, edit, and delete items to ensure they don't forget anything for their trips. The app features a user-friendly and responsive interface suitable for both desktop and mobile devices.
+- [Travel List 🧳](https://github.com/robson-muniz/travel-list) - Travel List is a React-based web app designed to help users manage their travel packing lists efficiently. Users can easily add, edit, and delete items to ensure they don't forget anything for their trips. The app features a user-friendly and responsive interface suitable for both desktop and mobile devices.
 - [Tic-Tac-Toe Game 🕹️](https://github.com/robson-muniz/tic-tac-toe-reactJS) - A simple Tic-Tac-Toe game built with ReactJS, showcasing dynamic state management and user-friendly interaction.
 
 ### YouTube Channel
