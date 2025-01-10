@@ -61,6 +61,11 @@ const developer = {
       <p>Interactive game with React</p>
       <p><a href="https://github.com/robson-muniz/tic-tac-toe-reactJS">View Project →</a></p>
     </td>
+    <td align="center">
+      <h3>🎵 Music Player</h3>
+      <p>Fully functional music player with custom controls</p>
+      <p><a href="https://github.com/robson-muniz/music_player">View Project →</a></p>
+    </td>
   </tr>
 </table>
 
