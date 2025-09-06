@@ -107,8 +107,18 @@ const developer = {
 
 ### 📫 Let's Connect!
 
-**Open for freelance projects and full-time opportunities**
+**I'm always open to discussing new opportunities and interesting projects!**
 
-[📧 Email Me](mailto:robson_muniz@yahoo.com)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-robson_muniz@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robson_muniz@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robson_Muniz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robsonmuniz)
+[![GitHub](https://img.shields.io/badge/GitHub-robson--muniz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robson-muniz)
+[![YouTube](https://img.shields.io/badge/YouTube-@DevMadeEasy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevMadeEasy)
+[![Dev.to](https://img.shields.io/badge/dev.to-@robsonmuniz16-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robsonmuniz16)
 
 </div>
+
+<p align="center">
+  <strong>Open for:</strong> Freelance projects • Full-time opportunities • Collaborations • Tech discussions
+</p>
