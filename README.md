@@ -54,23 +54,52 @@ const developer = {
     <td align="center">
       <h3>💱 Coinverter</h3>
       <p>Simple and efficient currency converter built with React</p>
-      <p><a href="https://coinverter.pt/">View Project →</a></p>
-      <p><a href="https://github.com/robson-muniz/coinverter">Source Code →</a></p>
+      <p>
+        <a href="https://coinverter.pt/">
+          <img src="https://img.shields.io/badge/Live_Demo-Coinverter-2EA44F?style=for-the-badge&logo=react&logoColor=white" alt="Live Demo">
+        </a>
+        <a href="https://github.com/robson-muniz/coinverter">
+          <img src="https://img.shields.io/badge/Source_Code-Coinverter-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+        </a>
+      </p>
     </td>
     <td align="center">
       <h3>🌍 Travel List</h3>
       <p>Modern React travel companion</p>
-      <p><a href="https://github.com/robson-muniz/travel-list">View Project →</a></p>
+      <p>
+        <a href="https://github.com/robson-muniz/travel-list">
+          <img src="https://img.shields.io/badge/View_Project-Travel_List-2EA44F?style=for-the-badge&logo=react&logoColor=white" alt="View Project">
+        </a>
+        <a href="https://github.com/robson-muniz/travel-list">
+          <img src="https://img.shields.io/badge/Source_Code-Travel_List-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+        </a>
+      </p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <h3>🎮 Tic-Tac-Toe</h3>
       <p>Interactive game with React</p>
-      <p><a href="https://github.com/robson-muniz/tic-tac-toe-reactJS">View Project →</a></p>
+      <p>
+        <a href="https://cheerful-empanada-bb1fe5.netlify.app/">
+          <img src="https://img.shields.io/badge/View_Project-Tic_Tac_Toe-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="View Project">
+        </a>
+        <a href="https://github.com/robson-muniz/tic-tac-toe-reactJS">
+          <img src="https://img.shields.io/badge/Source_Code-Tic_Tac_Toe-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+        </a>
+      </p>
     </td>
     <td align="center">
       <h3>🎵 Music Player</h3>
       <p>Fully functional music player with custom controls</p>
-      <p><a href="https://github.com/robson-muniz/music_player">View Project →</a></p>
+      <p>
+        <a href="https://euphonious-bienenstitch-4a46e3.netlify.app/">
+          <img src="https://img.shields.io/badge/View_Project-Music_Player-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="View Project">
+        </a>
+        <a href="https://github.com/robson-muniz/music_player">
+          <img src="https://img.shields.io/badge/Source_Code-Music_Player-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
