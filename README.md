@@ -52,6 +52,12 @@ const developer = {
 <table>
   <tr>
     <td align="center">
+      <h3>💱 Coinverter</h3>
+      <p>Simple and efficient currency converter built with React</p>
+      <p><a href="https://coinverter.pt/">View Project →</a></p>
+      <p><a href="https://github.com/robson-muniz/coinverter">Source Code →</a></p>
+    </td>
+    <td align="center">
       <h3>🌍 Travel List</h3>
       <p>Modern React travel companion</p>
       <p><a href="https://github.com/robson-muniz/travel-list">View Project →</a></p>
@@ -72,6 +78,7 @@ const developer = {
 </div>
 
 ---
+
 
 ### 📊 GitHub Analytics
 
