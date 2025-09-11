@@ -99,7 +99,7 @@ console.log("Welcome to my digital world! 🚀");
 - 📊 Progress tracking
 - 🎨 Modern, user-friendly interface
 
-[![View Project](https://img.shields.io/badge/🔍_View_Project-4CAF50?style=for-the-badge)](https://github.com/robson-muniz/travel-list)
+[![View Project](https://img.shields.io/badge/🔍_View_Project-4CAF50?style=for-the-badge)](https://travel-list-nu-nine.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📋_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/robson-muniz/travel-list)
 
 ---
