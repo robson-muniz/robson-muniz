@@ -176,12 +176,6 @@ console.log(`${me.name} - ${me.philosophy}`);
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robson-muniz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robson-muniz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
-</div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robson-muniz&theme=radical&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6d00&currStreakLabel=ffffff)
-
-</div>
-
 ---
 
 ## 🎬 **Content Creation**
