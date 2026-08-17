@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://robsonmuniz.tech">Portfolio</a> ·
-  <a href="mailto:muniz_robson@protonmail.com">Contact</a> ·
+  <a href="mailto:robson_muniz@tutamail.com">Contact</a> ·
   <a href="https://github.com/robson-muniz">GitHub</a>
 </p>
 
@@ -211,7 +211,7 @@ If you're hiring an engineer who can **own a feature from interface to business 
 <p>
   <a href="https://robsonmuniz.tech"><strong>→ View my portfolio</strong></a>
   &nbsp;&nbsp;
-  <a href="mailto:muniz_robson@protonmail.com"><strong>→ Contact me</strong></a>
+  <a href="mailto:robson_muniz@tutamail.com"><strong>→ Contact me</strong></a>
 </p>
 
 ---
